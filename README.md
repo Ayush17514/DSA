@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Ayush17514/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/Ayush17514/DSA/tree/master/0014-longest-common-prefix) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ayush17514/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [1046-last-stone-weight](https://github.com/Ayush17514/DSA/tree/master/1046-last-stone-weight) |
 ## Hash Table
 |  |
 | ------- |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ayush17514/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Ayush17514/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1046-last-stone-weight](https://github.com/Ayush17514/DSA/tree/master/1046-last-stone-weight) |
 ## Quickselect
 |  |
 | ------- |
