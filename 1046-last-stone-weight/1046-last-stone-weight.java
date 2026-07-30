@@ -5,11 +5,11 @@ class Solution {
     for (final int stone : stones)
       pq.offer(stone);
 
-    while (pq.size() >= 2) {
-      final int n1 = pq.poll();
-      final int n2 = pq.poll();
-      if (n1 != n2)
-        pq.offer(n1 - n2);
+    while (pq.size() > 1) {
+      int x = pq.poll();
+       int y = pq.poll();
+      if (x != y)
+        pq.offer(x - y);
     }
 
     return pq.isEmpty() ? 0 : pq.peek();
