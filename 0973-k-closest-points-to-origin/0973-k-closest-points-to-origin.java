@@ -2,6 +2,8 @@
 
 	import java.util.Arrays;
 
+	 
+
 	class Solution {
 
 	    public int[][] kClosest(int[][] points, int k) {
@@ -10,6 +12,8 @@
 	            int distB = b[0] * b[0] + b[1] * b[1];
 	            return Integer.compare(distB, distA); 
 	        });
+
+	 
 
 	        for (int[] point : points) {
 	            maxHeap.add(point);
@@ -24,6 +28,7 @@
 	            result[i] = maxHeap.poll();
 	        }
 	        return result;
+
 	    }
 
 	}
