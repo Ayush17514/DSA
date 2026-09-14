@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Ayush17514/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Ayush17514/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Ayush17514/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0733-flood-fill](https://github.com/Ayush17514/DSA/tree/master/0733-flood-fill) |
 | [0973-k-closest-points-to-origin](https://github.com/Ayush17514/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/Ayush17514/DSA/tree/master/1046-last-stone-weight) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/Ayush17514/DSA/tree/master/1962-remove-stones-to-minimize-the-total) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Ayush17514/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0733-flood-fill](https://github.com/Ayush17514/DSA/tree/master/0733-flood-fill) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -157,10 +159,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0733-flood-fill](https://github.com/Ayush17514/DSA/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/Ayush17514/DSA/tree/master/0841-keys-and-rooms) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0733-flood-fill](https://github.com/Ayush17514/DSA/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/Ayush17514/DSA/tree/master/0841-keys-and-rooms) |
 ## Graph Theory
 |  |
