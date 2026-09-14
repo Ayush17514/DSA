@@ -27,9 +27,9 @@ class Solution {
 
         image[row][col] = newColor;
 
-        dfs(image, row + 1, col, originalColor, newColor); // Down
-        dfs(image, row - 1, col, originalColor, newColor); // Up
-        dfs(image, row, col + 1, originalColor, newColor); // Right
-        dfs(image, row, col - 1, originalColor, newColor); // Left
+        dfs(image, row + 1, col, originalColor, newColor); 
+        dfs(image, row - 1, col, originalColor, newColor); 
+        dfs(image, row, col + 1, originalColor, newColor); 
+        dfs(image, row, col - 1, originalColor, newColor); 
     }
 }
